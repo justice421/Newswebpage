@@ -1,0 +1,126 @@
+.header {
+background-color: darkblue;
+  height: 200px;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.logo {
+  background-color: darkgrey;
+  width: 1000px;
+  height: 175px;
+  background-image: url('../images/Actor Banner.png');
+}
+
+
+nav {
+  background-color: grey;
+  width: 1000px;
+  height: 25px;
+  text-align: center;
+}
+
+.content {
+  background-color: black;
+  height: 1000px;
+  width: 1400px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.column {
+  background-color: red;
+  height: 1000px;
+  width: 466.6px;
+  float: left;
+/*  margin: 0px 16.6px; */
+}
+
+.story1 {
+  background-color: maroon;
+  width: 465.6px;
+  height: 499px;
+/*  margin: 10px 0px; */
+background-image: url('../images/johnny.png');
+}
+.story2 {
+  background-color: maroon;
+  width: 465.6px;
+  height: 499px;
+/*  margin: 10px 0px; */
+background-image: url('../images/JD.png')
+}
+.story3 {
+  background-color: maroon;
+  width: 465.6px;
+  height: 499px;
+/*  margin: 10px 0px; */
+background-image: url('../images/James.png');
+}
+.story4 {
+ background-color: maroon;
+  width: 465.6px;
+  height: 499px;
+/*  margin: 10px 0px; */
+background-image: url('../images/jm.png');
+}
+.story5 {
+  background-color: maroon;
+  width: 465.6px;
+  height: 499px;
+/*  margin: 10px 0px; */
+background-image: url('../images/Daniel.png');
+}
+.story6 {
+  background-color: maroon;
+  width: 465.6px;
+  height: 499px;
+/*  margin: 10px 0px; */
+background-image: url('../images/Dr.png');
+}
+
+p {
+  margin: 0px;
+}
+/*Start of Content 2*/
+
+.content2 {
+  background-color: lightgrey;
+  width: 1400px;
+  height: 500px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.side-article1 {
+  background-color: blue;
+  width: 200px;
+  height: 490px;
+  margin: 5px;
+  float: left;
+  background-image: url('../images/jake.png');
+}
+.side-article2 {
+  background-color: blue;
+  width: 200px;
+  height: 490px;
+  margin: 5px;
+  float: left;
+  background-image: url('../images/Untitled-1.png');
+}
+
+.middle-article {
+  background-color: darkblue;
+  width: 970px;
+  height: 490px;
+  margin: 5px;
+  float: left;
+  background-image: url('../images/Martin.png');
+}
+.content3 {
+  background-color: grey;
+  width: 1400px;
+  height: 500px;
+  margin: 0 auto;
+  background-image: url('../images/r&b.png');
+}
